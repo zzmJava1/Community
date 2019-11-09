@@ -1,7 +1,7 @@
 package com.nowcoder.community.entity;
 
 import java.util.Date;
-
+//tijiao
 public class DiscussPost {
 
     private int id;
